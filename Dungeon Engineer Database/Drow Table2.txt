@@ -1,0 +1,100 @@
+a:agh:Breaker, destruction, end, omega
+ace:as:Savant, scholar, wizard
+ae:aun:Dance, dancer, life, player
+aer:d:Blood, blood of, heir
+afae:afein:Bane, executioner, slayer
+afay:aufein:Eyes, eyes of, seeress/seer
+ala:launim:Healer, priestess/priest
+anna:erin:Advisor, counselor to
+arra:atar:Queen/prince, queen of/prince of
+aste:aste:Bearer, keeper, slaver
+avin:aonar:Guardian, guard, shield
+ayne:al:Lunatic, maniac, manic, rage
+baste:gloth:Path, walker
+breena:antar:Matriarch/patriarch, ruler
+bryn:lyn:Agent, assassin, killer
+cice:roos:Born of, child, young
+cyrl:axle:Ally, companion, friend
+da:daer:Illusionist, trickster
+dia:drin:Rogue, stealer
+diira:diirn:Initiate, sister/brother
+dra:zar:Lover, match, mate
+driira:driirn:Mother/father, teacher
+dril:dorl:Knight, sword, warrior
+e:e:Servant, slave, vassal
+eari:erd:Giver, god, patron
+eyl:eyl:Archer, arrow, flight, flyer
+ffyn:fein:Minstrel, singer, song
+fryn:fryn:Champion, victor, weapon, weapon of
+iara:ica:Baron, duke, lady/lord
+ice:eth:Obsession, taker, taken
+idil:imar:Alpha, beginning, creator of, maker
+iira:inid:Harbinger, herald
+inidia:inidia:Secret, wall, warder
+inil:in:Lady/lord, rider, steed
+intra:intra:Envoy, messenger, prophet
+isstra:atlab:Acolyte, apprentice, student
+ithra:irahc:Dragon, serpent, wyrm
+jra:gos:Beast, biter, stinger
+jss:jss:Scout, stalker
+kacha:kah:Beauty, hair, style
+kiira:raen:Apostle, disciple
+lay:dyn:Flight, flyer, wing, wings
+lara:aghar:Cynic, death, end, victim
+lin:lin:Arm, armor, commander
+lochar:lochar:Messenger, spider
+mice:myr:Bone, bones, necromancer, witch
+mur\'ss:mur\'ss:Shadow, spy, witness
+na:nar:Adept, ghost, spirit
+nilee:olil:Corpse, disease, ravager
+niss:nozz:Chance, gambler, game
+nitra:net:Kicker, returned, risen
+nolu:nolu:Art, artist, expert, treasure
+olin:olin:Ascension, love, lover, lust
+onia:onim:Rod, staff, token, wand
+oyss:omph:Binder, judge, law, prison
+qualyn:qualyn:Ally, caller, kin
+quarra:net:Horde, host, legion
+quiri:oj:Aura, cloak, hide, skin
+ra:or:Fool, game, prey, quarry
+rae:rar:Secret, seeker, quest
+raema:orvir:Crafter, fist, hand
+raena:olvir:Center, haven, home
+riia:rak:Chaos, storm, tempest
+ril:ril:Bandit, enemy, raider, outlaw
+riina:ree:Enchanter, mage, spellcaster
+ryna:oyn:Follower, hired, mercenary
+ryne:ryn:Blooded, elder, experienced
+shalee:ral:Abjurer, gaze, watch, watcher
+ssysn:rysn:Artifact, dweomer, sorcerer, spell
+stin:trin:Clan, house, merchant, of the house
+stra:tran:Spider, spinner, weaver
+tana:ton:Darkness, lurker, prowler
+thara:tar:Glyph, marker, rune
+thrae:olg:Charmer, leader, seducer
+tree:tel:Exile, loner, outcast, pariah
+tyrr:tyrr:Dagger, poison, poisoner, scorpion
+ual:dan:Speed, strider
+ue:dor:Arm, artisan, fingers
+uit:dar:Breath, voice, word
+une:diin:Diviner, fate, future, oracle
+uque:uque:Cavern, digger, mole, tunnel
+urra:dax:Nomad, renegade, wanderer
+va:ven:Comrade, honor, honored
+vayas:vayas:Forge, forger, hammer, smith
+vyll:vyll:Punishment, scourge, whip, zealot
+vyrae:vyr:Mistress/master, overseer
+wae:hrae:Heir, inheritor, princess
+wiira:hriir:Seneschal of, steward
+wyss:hrys:Best, creator, starter
+xae:zaer:Orb, rank, ruler, scepter
+xena:zen:Cutter, gem, jewel, jeweler
+xyra:zyr:Sage, teller
+yl:yl:Drow, woman/man
+ylene:yln:Handmaiden/squire, maiden/youth
+ymma:inyon:Drider, feet, foot, runner
+ynda:yrd:Captain, custodian, marshal, ranger
+ynrae:yraen:Heretic, rebel, riot, void
+vrae:vrae:Architect, founder, mason
+yrr:yrr:Protector, rival, wielder
+zyne:zt:Finder, hunter

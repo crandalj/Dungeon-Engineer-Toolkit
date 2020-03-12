@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>577</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dungeon Engineer Toolkit</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>../../Documents/Engineer Cog.png</normaloff>../../Documents/Engineer Cog.png</iconset>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QTabWidget" name="tabWidget">
+    <property name="geometry">
+     <rect>
+      <x>640</x>
+      <y>0</y>
+      <width>161</width>
+      <height>461</height>
+     </rect>
+    </property>
+    <property name="tabPosition">
+     <enum>QTabWidget::West</enum>
+    </property>
+    <property name="currentIndex">
+     <number>0</number>
+    </property>
+    <widget class="QWidget" name="tab">
+     <attribute name="title">
+      <string>Loot</string>
+     </attribute>
+     <widget class="QPushButton" name="btn_Random_Loot">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>10</y>
+        <width>121</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Random Loot</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_Potion">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>40</y>
+        <width>121</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Potion</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_Weapon">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>70</y>
+        <width>121</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Weapon</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_Armor">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>100</y>
+        <width>121</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Armor</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_Common">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>130</y>
+        <width>121</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Common</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_Uncommon">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>160</y>
+        <width>121</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Uncommon</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_Rare">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>190</y>
+        <width>121</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Rare</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_Very_Rare">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>220</y>
+        <width>121</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Very Rare</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_Legendary">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>250</y>
+        <width>121</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Legendary</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_Gold">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>280</y>
+        <width>121</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Gold</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_Treasure">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>310</y>
+        <width>121</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Treasure</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_Scroll">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>340</y>
+        <width>121</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Scroll</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="tab_4">
+     <attribute name="title">
+      <string>Encounter</string>
+     </attribute>
+     <widget class="QPushButton" name="btn_Lingering_Injuries">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>10</y>
+        <width>121</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Lingering Injuries</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_Madness">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>420</y>
+        <width>121</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Madness</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_Wild_Magic">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>40</y>
+        <width>121</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Wild Magic</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_Weather">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>70</y>
+        <width>121</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Weather</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_Traps">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>100</y>
+        <width>121</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Traps</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_Random_Encounter_2">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>390</y>
+        <width>31</width>
+        <height>16</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Type:</string>
+      </property>
+     </widget>
+     <widget class="QComboBox" name="comboBox_Madness">
+      <property name="geometry">
+       <rect>
+        <x>40</x>
+        <y>390</y>
+        <width>91</width>
+        <height>22</height>
+       </rect>
+      </property>
+      <item>
+       <property name="text">
+        <string>Short-term</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Long-term</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Indefinite</string>
+       </property>
+      </item>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="tab_3">
+     <attribute name="title">
+      <string>Utility</string>
+     </attribute>
+     <widget class="QPushButton" name="btn_Random_Names">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>10</y>
+        <width>121</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Random Names</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_Drow_Name">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>40</y>
+        <width>121</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Drow Name</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_Item_Origin">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>130</y>
+        <width>121</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Item Origin</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_Enchantment">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>70</y>
+        <width>121</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Enchantment</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_Plot_Hook">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>100</y>
+        <width>121</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Plot Hook</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_Downtime">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>420</y>
+        <width>121</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Downtime</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_Riddle">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>160</y>
+        <width>121</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Riddle</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_Puzzle">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>190</y>
+        <width>121</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Puzzle</string>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_Random_Encounter_3">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>390</y>
+        <width>31</width>
+        <height>16</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Type:</string>
+      </property>
+     </widget>
+     <widget class="QComboBox" name="comboBox_Downtime">
+      <property name="geometry">
+       <rect>
+        <x>40</x>
+        <y>390</y>
+        <width>91</width>
+        <height>22</height>
+       </rect>
+      </property>
+      <item>
+       <property name="text">
+        <string>Training</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Carousing</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Sell Magic Item</string>
+       </property>
+      </item>
+     </widget>
+     <widget class="QLabel" name="label_Spellbook">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>330</y>
+        <width>31</width>
+        <height>16</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Class:</string>
+      </property>
+     </widget>
+     <widget class="QComboBox" name="comboBox_Spellbook">
+      <property name="geometry">
+       <rect>
+        <x>40</x>
+        <y>330</y>
+        <width>91</width>
+        <height>22</height>
+       </rect>
+      </property>
+      <item>
+       <property name="text">
+        <string>bard</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>cleric</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>druid</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>paladin</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>ranger</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>sorcerer</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>warlock</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>wizard</string>
+       </property>
+      </item>
+     </widget>
+     <widget class="QPushButton" name="btn_Spellbook">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>360</y>
+        <width>121</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Spellbook</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="btn_QuestGen">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>220</y>
+        <width>121</width>
+        <height>23</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>Quest Generator</string>
+      </property>
+     </widget>
+    </widget>
+   </widget>
+   <widget class="QGroupBox" name="groupBox">
+    <property name="geometry">
+     <rect>
+      <x>670</x>
+      <y>480</y>
+      <width>121</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string>Party Info</string>
+    </property>
+    <widget class="QLabel" name="label_Level">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>20</y>
+       <width>46</width>
+       <height>21</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Level:</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_Difficulty">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>40</y>
+       <width>46</width>
+       <height>21</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Difficulty:</string>
+     </property>
+    </widget>
+    <widget class="QComboBox" name="comboBox_Difficulty">
+     <property name="geometry">
+      <rect>
+       <x>60</x>
+       <y>40</y>
+       <width>61</width>
+       <height>22</height>
+      </rect>
+     </property>
+     <item>
+      <property name="text">
+       <string>Easy</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>Average</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>Difficult</string>
+      </property>
+     </item>
+    </widget>
+    <widget class="QSpinBox" name="spinBox_Level">
+     <property name="geometry">
+      <rect>
+       <x>60</x>
+       <y>20</y>
+       <width>61</width>
+       <height>16</height>
+      </rect>
+     </property>
+     <property name="minimum">
+      <number>1</number>
+     </property>
+     <property name="maximum">
+      <number>20</number>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QTextEdit" name="textEdit">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>621</width>
+      <height>541</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="btnClear">
+    <property name="geometry">
+     <rect>
+      <x>640</x>
+      <y>520</y>
+      <width>21</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>C</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

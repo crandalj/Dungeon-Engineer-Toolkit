@@ -1,0 +1,100 @@
+Akor:Alak:Beloved, best, first
+Alaun:Alton:Lightning, powerful
+Aly:Kel:Legendary, singing, song
+Ang:Adin:Beast, monstrous, savage
+Ardul:Amal:Blessed, divine, godly
+Aun:Ant:Crypt, dead, deadly, death
+Bae:Bar:Fate, fated, luck, lucky
+Bal:Bel:Burned, burning, fire, flame
+Belar:Bruh:Arrow, lance, pierced
+Briz:Berg:Graceful, fluid, water, wet
+Bur:Bhin:Craft, crafty, sly
+Chal:Chasz:Earth, stable
+Char:Kron:Sick, venom, venomed
+Chess:Cal:Noble, lady/lord
+Dhaun:Dhuan:Infested, plague
+Dil:Dur:Cold, ice, still
+Dirz:Div:Dream, dreaming, fantasy
+Dris:Riz:Ash, dawn, east, eastern
+Eclav:Elk:Chaos, mad, madness
+Elvan:Kalan:Elf, elven, far, lost
+Elv:Elaug:Drow, mage, power
+Erel:Rhyl:Eye, moon, spy
+Ethe:Erth:Mithril, resolute
+Faer:Selds:Oath, sworn, vow
+Felyn:Fil:Pale, thin, weak, white
+Filf:Phar:Dwarf, dwarven, treacherous
+Gauss:Orgoll:Dread, fear, feared, vile
+G\'eld:G\'eld:Friend, spider
+Ghuan:Ghuan:Accursed, curse, unlucky
+Gin:Din:Berserk, berserker, orc, wild
+Grey:Gul:Ghost, pale, unliving
+Hael:Hatch:Marked, trail, way
+Hal:Sol:Deft, nimble, spider
+Houn:Rik:Magic, ring, staff
+Iiv:Dip:Liege, war, warrior
+Iim:Iam:Life, living, spirit, soul
+Illiam:Im:Devoted, heart, love
+In:Sorn:Enchanted, spell
+Ilph:Ilph:Emerald, green, lush, tree
+Irae:Ilzt:Arcane, mystic, wizard
+In:Izz:Hidden, mask, masked
+Iym:Ist:Endless, immortal
+Jan:Duag:Shield, warded
+Jhael:Gel:Ambitious, clan, kin, family
+Jhul:Jar:Charmed, rune, symbol
+Jys:Driz:Hard, steel, unyielding
+Lael:Llt:Iron, west, western
+Lar:Les:Binding, bound, law, lawful
+LiNeer:Mourn:Legend, legendary, mythical
+Lird:Ryld:Brand, branded, owned, slave
+Lua:Lyme:Bright, crystal, light
+Mal:Malag:Mystery, secret
+May:Mas:Beautiful, beauty, silver
+Micar:Micar:Lost, poison, widow
+Min:Ran:Lesser, minor, second
+Mol:Go:Blue, storm, thunder, wind
+Myr:Nym:Lost, skeleton, skull
+Nath:Mer:Doom, doomed, fate
+Ned:Nad:Cunning, genius, mind, thought
+Nhil:Nal:Fear, horrible, horror, outraged
+Neer:Neer:Core, root, strong
+Null:Nil:Sad, tear, weeping
+Olor:Omar:Skin, tattoo, tattooed
+Pellan:Relon:North, platinum, wind
+Phaer:Vorn:Honor, honored
+Phyr:Phyx:Bless, blessed, blessing
+Qualn:Quil:Mighty, ocean, sea
+Quar:Quar:Aged, eternal, time
+Quav:Quev:Charmed, docile, friend
+Qil:Quil:Foe, goblin, slave
+Rauv:Welv:Cave, rock, stone
+Ril:Ryl:Foretold, omen
+Sbat:Szor:Amber, yellow
+Sab:Tsab:Abyss, empty, void
+Shi\'n:Kren:Fool, foolish, young
+Shri:Ssz:Silk, silent
+Shur:Shar:Dagger, edge, stiletto
+Shynt:Shynt:Invisible, skilled, unseen
+Sin:Szin:Festival, joy, pleasure
+Ssap:Tath:Blue, midnight, nigh
+Susp:Spir:Learned, skilled, wise
+Talab:Tluth:Burn, burning, fire
+Tal:Tar:Love, pain, wound, wounded
+Triel:Taz:Bat, winged
+T\'riss:Teb:Blade, sharp, sword
+Ulvir:Uhls:Gold, golden, treasure
+Umrae:Hurz:Faith, faithful, true
+Vas:Vesz:Blood, body, flesh
+Vic:Vic:Abyss, deep, profound
+Vier:Val:Black, dark, darkness
+Vlon:Wod:Bold, hero, heroic
+Waer:Wehl:Deep, hidden, south, southern
+Wuyon:Wruz:Humble, third, trivial
+Xull:Url:Blooded, crimson, ruby
+Xun:Xun:Demon, fiend, fiendish
+Yas:Yaz:Riddle, spinning, thread, web
+Zar:Zakn:Dusk, haunted, shadow
+Zebey:Zek:Dragon, lithe, rage, wyrm
+Zes:Zsz:Ancient, elder, respected
+Zilv:Vuz:Forgotten, old, unknown

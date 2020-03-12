@@ -1,0 +1,1 @@
+Common item:Price of item:Weight of item:Description of item
